@@ -1,2 +1,5 @@
-new Splide( '.splide' ).mount();
-console.log("cock")
+new Splide( '.splide' , {
+    type : 'loop' , 
+    paging : false ,
+    pagination : false 
+} ).mount();
