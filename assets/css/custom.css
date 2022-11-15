@@ -528,6 +528,17 @@ a{
 }
 /*CHOOSE SECTION*/
 
+/*TESTIMONIALS SECTION*/
+
+.testimonials-parent{
+    background-image: url(../images/testimonials_bg2.jpeg);
+    background-position:  top center;
+    background-size : cover;
+    background-repeat: no-repeat;
+}
+
+/*TESTIMONIALS SECTION*/
+
 @media ( min-width : 1200px )
 {
     .container{
